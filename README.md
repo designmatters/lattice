@@ -135,6 +135,5 @@ To be defined.
 
 ## Status
 
-Lattice is under active development. The language design is settled; the
-interpreter works on representative schemas; tooling is in progress.
+The language design is settled; tooling is in progress.
 
